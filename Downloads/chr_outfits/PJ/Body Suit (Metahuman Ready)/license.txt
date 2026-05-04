@@ -1,0 +1,8 @@
+Model Information:
+* title:	Body Suit (Metahuman Ready)
+* source:	https://sketchfab.com/3d-models/body-suit-metahuman-ready-432ab34ffab746faa6b68b0bcfa9848f
+* author:	tikoavp (https://sketchfab.com/tikoavp)
+
+Model License:
+* license type:	Standard (https://sketchfab.com/licenses)
+* requirements:	see https://sketchfab.com/licenses

@@ -1,0 +1,8 @@
+Model Information:
+* title:	White Suit Set
+* source:	https://sketchfab.com/3d-models/white-suit-set-46111b5492f944bd862b8ca9ca4ba78b
+* author:	Style3DMeta (https://sketchfab.com/Style3DMeta)
+
+Model License:
+* license type:	CC Attribution (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	see http://creativecommons.org/licenses/by/4.0/
